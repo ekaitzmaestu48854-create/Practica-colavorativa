@@ -14,6 +14,10 @@ public class Main {
         public static void ekaitz(){
             System.out.printf("Ekaitz");
         }
+
+        public static void f0(){
+
+        }
     }
     public static void f1(){
         System.out.println("f1");
