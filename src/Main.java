@@ -15,4 +15,7 @@ public class Main {
             System.out.printf("Ekaitz");
         }
     }
+    public static void f1(){
+        System.out.println("f1");
+    }
 }
