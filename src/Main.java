@@ -12,12 +12,8 @@ public class Main {
             System.out.println("i = " + i);
         }
     }
-    public static void f1(){
-        System.out.println("f1");
-    }
 
     public static void f0(){
 
     }
-
 }
