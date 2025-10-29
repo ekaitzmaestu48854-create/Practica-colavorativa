@@ -19,12 +19,8 @@ public class Main {
 
         }
     }
-    public static void f1(){
-        System.out.println("f1");
-    }
 
     public static void f0(){
 
     }
-
 }
